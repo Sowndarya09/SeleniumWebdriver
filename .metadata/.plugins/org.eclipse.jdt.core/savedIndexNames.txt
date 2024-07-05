@@ -1,2 +1,0 @@
-INDEX VERSION 1.131+C:\Users\sownd\Desktop\Sownd-Work\Workspace\SeleniumWebdriver\.metadata\.plugins\org.eclipse.jdt.core
-1658557232.index

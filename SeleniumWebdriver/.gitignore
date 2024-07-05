@@ -1,5 +1,6 @@
 # Maven target directory
 /target/
+target/classes/
 
 # Eclipse and IntelliJ IDEA project files
 .classpath
@@ -61,6 +62,9 @@ desktop.ini
 
 # Other metadata files
 *.metadata
+../.metadata/
+/.metadata/
+
 
 # Logs
 *.log
